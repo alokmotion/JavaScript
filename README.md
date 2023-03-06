@@ -4,6 +4,11 @@
 <h2> 1. What do you understand about JavaScript?
 </h2>
 
+<h2> 2. JavaScript can be added to your HTML file in two ways: </h2>
+<p> 
+Internal JavaScript <br>
+External JavaScript <br>
+</p>
 
 
 <h2> Difference Between JavaScript and jQuery </h2>
