@@ -6,9 +6,16 @@
 
 <h2> 2. JavaScript can be added to your HTML file in two ways: </h2>
 <p> 
-Internal JavaScript <br>
-External JavaScript <br>
+1.Internal JavaScript <br>
+2.External JavaScript <br>
 </p>
+
+
+<h2> How to create a cookie using JavaScript? </h2>
+<p>
+  document.cookie
+  </p>
+
 
 
 <h2> Difference Between JavaScript and jQuery </h2>
