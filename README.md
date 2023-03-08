@@ -27,6 +27,9 @@ The alert() function in JavaScript allows us to display any message or warning i
 <h2> Javascript Window prompt() Method </h2>
 <h2> What are the types of errors in javascript? </h2>
 
+<h2> Difference between “ == “ and “ === “ operators. </h2>
+
+
 <p> In JavaScript, there are several types of errors: <br>
   1. Syntax Errors <br>
   2. Runtime Errors <br>
