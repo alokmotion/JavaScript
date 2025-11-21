@@ -1,0 +1,43 @@
+# macOS resource fork files (dot files)
+._*
+.DS_Store
+.DS_Store?
+._.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Package files (optional - comment out if you want to track these)
+# package-lock.json
+# yarn.lock
+

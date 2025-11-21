@@ -1,0 +1,25 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "._Index.js",
+  "scripts": {
+    "start": "nodemon Index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alokmotion/JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alokmotion/JavaScript/issues"
+  },
+  "homepage": "https://github.com/alokmotion/JavaScript#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
