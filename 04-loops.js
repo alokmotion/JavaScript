@@ -3,12 +3,14 @@
 
 // For Loop
 console.log("For Loop:");
+
 for (let i = 0; i < 5; i++) {
     console.log("Iteration:", i);
 }
 
 // While Loop
 console.log("\nWhile Loop:");
+
 let count = 0;
 while (count < 3) {
     console.log("Count:", count);
@@ -25,6 +27,7 @@ do {
 
 // For-Of Loop (Arrays)
 console.log("\nFor-Of Loop (Arrays):");
+
 let fruits = ["Apple", "Banana", "Orange"];
 for (let fruit of fruits) {
     console.log(fruit);
