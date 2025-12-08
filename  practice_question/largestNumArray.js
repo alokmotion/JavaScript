@@ -3,7 +3,7 @@
 let arr = [20, 30, 40, 500, 100, 60, 10, 20]
 
 function largestNum(arr){
-    let res = 0;
+    let res = -Infinity;
 
     for(let i = 0; i<arr.length; i++){
 
