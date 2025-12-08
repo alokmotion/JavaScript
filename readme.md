@@ -9,3 +9,5 @@ Print all even numbers from an array.
 
 ### Vote Eligibility
 Write a function that checks if a person is eligible to vote based on their age (must be 18 or older). 
+
+// write a function that return the number of nagative number in array 
